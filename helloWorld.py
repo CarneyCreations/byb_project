@@ -1,2 +1,2 @@
-# This is my first program pushed form Git to GitHub.
+# This is my first program pushed from Git to GitHub.
 print("Git is awesome!")
